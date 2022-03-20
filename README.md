@@ -1,5 +1,4 @@
-# Investigation of algebraic properties of convolutional
-neural networks
+# Investigation of algebraic properties of convolutional neural networks
 Сверточная нейронная сеть, как только принимает на вход
 изображение, создает несколько его копий с небольшими отклонениями в
 ориентации, затем создает карты признаков всех этих изображений, что
